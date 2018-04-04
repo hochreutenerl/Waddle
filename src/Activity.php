@@ -230,7 +230,6 @@ class Activity
      * @return type
      */
     public function getGeographicInformation(){
-
         $result = array(
             'north' => PHP_INT_MIN,
             'east' => PHP_INT_MIN,
